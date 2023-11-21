@@ -16,16 +16,16 @@ class Program{
         return (x+y+z)/3;
     }
     static void Main(){
-        // string UserName = "Mohammad";
-        // int UserAge = 23;
+        string UserName = "John";
+        int UserAge = 23;
 
-        // Console.WriteLine("Hi, I'm "+ UserName +" and i'm " + UserAge + " years old age");
-        // int age = 19;
-        // if(age<18){
-        //     Console.WriteLine("you can not drink!");
-        // }else{
-        //     Console.WriteLine("you can drink!");
-        // }
+        Console.WriteLine("Hi, I'm "+ UserName +" and i'm " + UserAge + " years old age");
+        int age = 19;
+        if(age<18){
+            Console.WriteLine("you can not drink!");
+        }else{
+            Console.WriteLine("you can drink!");
+        }
 
     //     const string name = "Mohammad";
     //    Console.WriteLine(name);
